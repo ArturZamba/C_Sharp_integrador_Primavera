@@ -1,0 +1,2 @@
+C:\Users\programacao\Source\Repos\Motor_vnd\Motor_vnd\obj\Debug\Motor_vnd.csprojAssemblyReference.cache
+C:\Users\programacao\Source\Repos\Motor_vnd\Motor_vnd\obj\Debug\Motor_vnd.csproj.CoreCompileInputs.cache
